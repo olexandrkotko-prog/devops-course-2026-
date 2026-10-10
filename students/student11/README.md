@@ -1,4 +1,4 @@
-# Student01
+# Student11
 
 ## About
 
@@ -17,4 +17,4 @@ This directory was created as part of the Shared Git Repository practical assign
 * Repository Structure
 * issues
 * tags/releases
-* semantic commitss
+* semantic commits
